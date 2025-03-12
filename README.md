@@ -15,4 +15,4 @@
 <h4>Informações</h4>
 <p>Os testes foram desenvolvidos através do módulo Jest, juntamente do Babel para a normalização em EC6.</p>
 <h4>Organização</h4>
-<p>Cada classe possuí seu próprio bloco de testes, os quais organição seus vários testes por encontrada em cada classe.</p>
+<p>Cada classe possuí seu próprio bloco de testes, os quais organizão seus vários testes por classe.</p>
